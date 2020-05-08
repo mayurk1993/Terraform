@@ -1,6 +1,4 @@
-# Terraform
-
-This repository consists of various POCs demonstrating features of Infrastructure provisioning tool - Terraform.
+# This repository consists of various POCs demonstrating features of Infrastructure provisioning tool - Terraform.
 
 #Jenkins setup using Terraform
 
