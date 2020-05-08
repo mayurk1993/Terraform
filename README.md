@@ -1,5 +1,7 @@
 # Terraform
 
+This repository consists of various POCs demonstrating features of Infrastructure provisioning tool - Terraform.
+
 #Jenkins setup using Terraform
 
 The terraform file jenkins_setup_using_tf_remote_exec.tf will do following tasks :
